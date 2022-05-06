@@ -28,6 +28,17 @@
 @import url(../blocks/photo-grid/__list/photo-grid__list.css);
 @import url(../blocks/photo-grid/__img/photo-grid__img.css);
 
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__list/places__list.css);
+@import url(../blocks/places/__item/places__item.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__website/places__website.css);
+@import url(../blocks/places/__url-heading/places__url-heading.css);
+@import url(../blocks/places/__link/places__link.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__paragraph-list/places__paragraph-list.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
+
 
 /* Temporarily */
 @media screen and (max-width: 1280px) {

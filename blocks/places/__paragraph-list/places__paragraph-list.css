@@ -1,0 +1,12 @@
+.places__paragraph-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px;
+}
+
+@media screen and (max-width: 425px) {
+  .places__paragraph-list {
+    padding: 0 16px;
+  }
+}
