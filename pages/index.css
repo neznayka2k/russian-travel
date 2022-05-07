@@ -44,6 +44,11 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav-list/footer__nav-list.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__paragraph/footer__paragraph.css);
+
 
 /* Temporarily */
 @media screen and (max-width: 1280px) {
